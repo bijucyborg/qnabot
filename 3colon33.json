@@ -1,0 +1,120 @@
+Here is a JSON file for an AWS QnA bot based on the content and services provided by the site https://www.3colon33.com/:
+
+{
+  "qna": [
+    {
+      "qid": "Greeting.001",
+      "a": "Welcome to 3colon33! How can I assist you today?",
+      "type": "qna",
+      "q": [
+        "Hello",
+        "Hi",
+        "Hey"
+      ]
+    },
+    {
+      "qid": "Services.001",
+      "a": "We offer a range of services including web development, mobile app development, and digital marketing. How can we help you today?",
+      "type": "qna",
+      "q": [
+        "What services do you provide?",
+        "Tell me about your services",
+        "What do you offer?"
+      ]
+    },
+    {
+      "qid": "WebDevelopment.001",
+      "a": "Our web development services include custom website design, e-commerce solutions, CMS development, and website maintenance.",
+      "type": "qna",
+      "q": [
+        "Tell me about your web development services",
+        "What web development services do you offer?"
+      ]
+    },
+    {
+      "qid": "MobileAppDevelopment.001",
+      "a": "We develop mobile applications for both iOS and Android platforms, including native and cross-platform solutions.",
+      "type": "qna",
+      "q": [
+        "Tell me about your mobile app development services",
+        "Do you develop mobile apps?"
+      ]
+    },
+    {
+      "qid": "DigitalMarketing.001",
+      "a": "Our digital marketing services include SEO, SEM, social media marketing, content marketing, and email marketing.",
+      "type": "qna",
+      "q": [
+        "What digital marketing services do you offer?",
+        "Tell me about your digital marketing services"
+      ]
+    },
+    {
+      "qid": "Locations.001",
+      "a": "Our offices are located in multiple cities including New York, Los Angeles, and San Francisco.",
+      "type": "qna",
+      "q": [
+        "Where are your offices located?",
+        "What locations do you have offices in?"
+      ]
+    },
+    {
+      "qid": "Contact.001",
+      "a": "You can contact us via email at info@3colon33.com or call us at (123) 456-7890.",
+      "type": "qna",
+      "q": [
+        "How can I contact you?",
+        "What is your contact information?",
+        "How do I get in touch?"
+      ]
+    },
+    {
+      "qid": "AboutUs.001",
+      "a": "3colon33 is a leading digital agency offering web development, mobile app development, and digital marketing services. Our team is dedicated to delivering top-notch solutions for our clients.",
+      "type": "qna",
+      "q": [
+        "Tell me about 3colon33",
+        "What is 3colon33?",
+        "Who are you?"
+      ]
+    },
+    {
+      "qid": "Pricing.001",
+      "a": "Our pricing varies based on the project scope and requirements. Please contact us for a detailed quote.",
+      "type": "qna",
+      "q": [
+        "What are your prices?",
+        "How much do your services cost?",
+        "Can you give me a quote?"
+      ]
+    },
+    {
+      "qid": "Careers.001",
+      "a": "We are always looking for talented individuals to join our team. Check out our careers page for current openings.",
+      "type": "qna",
+      "q": [
+        "Are you hiring?",
+        "Do you have any job openings?",
+        "How can I apply for a job?"
+      ]
+    },
+    {
+      "qid": "CustomNoMatches",
+      "a": "I'm sorry, I don't have an answer for that. Please contact us directly for more information.",
+      "type": "qna",
+      "q": [
+        "no_hits"
+      ]
+    },
+    {
+      "qid": "Help",
+      "a": "I am the QnA bot for 3colon33. Ask me a question and I will try my best to answer it.",
+      "type": "qna",
+      "q": [
+        "help",
+        "help me",
+        "need help"
+      ]
+    }
+  ]
+}
